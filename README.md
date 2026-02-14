@@ -383,7 +383,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### IReader
 
-<img alt="IReaderIcon" height="64" src="https://raw.githubusercontent.com/IReaderorg/IReader/main/assets/icon.png">
+<img alt="IReaderIcon" height="64" src="https://raw.githubusercontent.com/IReaderorg/IReader/master/android/src/devPreview/res/mipmap-xxxhdpi/ic_launcher_monochrome.png">
 
 - [ ] Google Play
 - [ ] F-Droid
